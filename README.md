@@ -13,5 +13,6 @@
 Atividade 1: Trello 
 - [Grupo](https://trello.com/b/5enRkCmQ/gerenciamento-de-entregas-para-1c)
 Atividade 2: https://www.canva.com/design/DAGEjaYuxqs/HK6er6zs_whlqRc2lpjSHw/edit?utm_content=DAGEjaYuxqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Atividade 3: https://trello.com/invite/b/uDJRp4QI/ATTIe7c27fd06989b7ab3625aca95d1d3654F04A29BE/individual
 
 
